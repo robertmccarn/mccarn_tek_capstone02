@@ -1,0 +1,331 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+6,Incidence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,1990,182183358.30496478,207533227.20758045,159598111.32034943
+6,Incidence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,1990,2242064.738789166,2670393.1419405206,1867751.131472716
+6,Incidence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,1990,31125961.240965318,37918470.44686758,25080679.953208663
+6,Incidence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,1990,8203752.8264778005,11341999.231345426,5578798.54257803
+6,Incidence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,1990,602887.2497775657,718288.3023392082,501382.0080673983
+6,Incidence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,1990,3993731.408178147,5654991.772040721,2658757.1115975915
+6,Incidence,1,Global,3,Both,22,All ages,579,Conduct disorder,1,Number,1990,11571647.911793146,15159005.526351849,8388603.69806407
+6,Incidence,1,Global,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,1990,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,1990,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,294,All causes,1,Number,1990,28772289913.4082,30515765442.92906,27191314946.471973
+6,Incidence,1,Global,3,Both,22,All ages,294,All causes,1,Number,1991,29143825599.776608,30892531485.331303,27532573526.2755
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,940721.3167787626,1120436.5465145712,801129.4266623069
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,1991,956020.6172939666,1138794.1151449871,814689.3228137436
+6,Incidence,1,Global,3,Both,22,All ages,294,All causes,1,Number,1992,29485855905.415806,31265931329.24745,27861053534.875893
+6,Incidence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,1992,194270436.41487804,220567962.0455226,170342667.7237328
+6,Incidence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,1992,2315615.5919089983,2759536.485842808,1930846.320218056
+6,Incidence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,1992,32105419.865794074,39106632.187792055,25848396.735771295
+6,Incidence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,1992,8419422.397780543,11616453.659742618,5736968.562340306
+6,Incidence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,1992,598823.5694525193,713579.4234686949,497916.3376441866
+6,Incidence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,1992,4175176.4940643064,5918562.56843399,2778082.9837428695
+6,Incidence,1,Global,3,Both,22,All ages,579,Conduct disorder,1,Number,1992,11842727.261191078,15503487.47209639,8539891.190981235
+6,Incidence,1,Global,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,1992,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,1992,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,1992,970479.0631068237,1156588.3496873577,826066.5848403014
+6,Incidence,1,Global,3,Both,22,All ages,294,All causes,1,Number,1995,30585671247.651016,32389691840.663483,28953716051.187084
+6,Incidence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,1995,208980122.74737763,236773712.04253167,183538485.87408063
+6,Incidence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,1995,2433232.5047990275,2902536.3221421805,2030349.7240177959
+6,Incidence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,1995,33628966.07226231,40860033.478633724,27102430.978491172
+6,Incidence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,1995,8728782.690402951,12018712.465989156,5953979.991806253
+6,Incidence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,1995,593777.6136326719,707653.2341722257,493462.89460545086
+6,Incidence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,1995,4326876.794110466,6113221.1802113615,2874176.9794748547
+6,Incidence,1,Global,3,Both,22,All ages,579,Conduct disorder,1,Number,1995,12314990.55604065,16132426.028937545,8821643.288941655
+6,Incidence,1,Global,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,1995,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,1995,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,1010882.2263003845,1206577.716087705,858319.9862151215
+6,Incidence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,1991,188380659.7028468,214256047.63172367,165030479.95648116
+6,Incidence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,1991,2278357.119987874,2714026.5693825493,1899332.2865099257
+6,Incidence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,1991,31610270.989405315,38500021.87587345,25447696.476922836
+6,Incidence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,1991,8312379.658593159,11480988.864055023,5658621.965066423
+6,Incidence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,1991,601341.0103651235,716503.8216345529,500104.03954650357
+6,Incidence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,1991,4087893.966861585,5794789.396309427,2719793.189605827
+6,Incidence,1,Global,3,Both,22,All ages,579,Conduct disorder,1,Number,1991,11698984.576464657,15331931.799389636,8458361.885280272
+6,Incidence,1,Global,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,1991,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,1991,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,294,All causes,1,Number,1994,30213216182.883366,32013557277.29485,28596998911.921864
+6,Incidence,1,Global,3,Both,22,All ages,294,All causes,1,Number,1993,29843580780.054382,31642350143.817406,28240005696.068714
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,1993,984293.9257515636,1173561.148217625,836344.681462282
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,1994,997635.8592780224,1190105.9954207863,846906.466033281
+6,Incidence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,1993,199724911.18322024,226597362.2823823,175163238.2359482
+6,Incidence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,1993,2353753.326551283,2805908.6770796995,1963055.2761536348
+6,Incidence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,1993,32608980.098474875,39665466.48243579,26268147.96964972
+6,Incidence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,1993,8524573.682134505,11750080.844571538,5813157.315138464
+6,Incidence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,1993,596848.8483626157,711277.0283121743,496176.0635916963
+6,Incidence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,1993,4249319.594265447,6019032.867749961,2827564.2025378835
+6,Incidence,1,Global,3,Both,22,All ages,579,Conduct disorder,1,Number,1993,11997157.509610487,15711284.539493088,8629760.142561028
+6,Incidence,1,Global,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,1993,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,1993,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,1994,204669623.65872368,231965379.35468927,179947112.60077894
+6,Incidence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,1994,2392929.911715111,2853335.0177336265,1996015.6056978593
+6,Incidence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,1994,33118108.98306233,40263328.877792105,26692834.74909901
+6,Incidence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,1994,8627674.587024866,11883725.300145177,5886873.071159402
+6,Incidence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,1994,595317.5911793382,709474.8544906868,494812.6760793943
+6,Incidence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,1994,4303115.8203264475,6087707.363747934,2859918.9457628876
+6,Incidence,1,Global,3,Both,22,All ages,579,Conduct disorder,1,Number,1994,12156786.734927109,15929450.990361156,8724944.006363792
+6,Incidence,1,Global,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,1994,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,1994,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,1997,216360331.8518973,244374522.8193171,190507955.62782863
+6,Incidence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,1997,2518027.9298217483,3003193.8174716798,2101129.810744754
+6,Incidence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,1997,34842606.42175925,42230616.62827615,28056937.41151249
+6,Incidence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,1997,8953164.138138592,12373055.400782473,6098485.621561888
+6,Incidence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,1997,591656.4867094068,705123.4575546099,491569.005549485
+6,Incidence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,1997,4301935.415075639,6086658.310087626,2871487.177307652
+6,Incidence,1,Global,3,Both,22,All ages,579,Conduct disorder,1,Number,1997,12599635.511030197,16533382.83490659,9050968.279467005
+6,Incidence,1,Global,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,1997,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,1997,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,294,All causes,1,Number,1997,31323272784.31877,33166806218.24793,29646263167.59017
+6,Incidence,1,Global,3,Both,22,All ages,294,All causes,1,Number,2000,32398210256.53843,34261066740.7325,30671583684.782055
+6,Incidence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,1996,212793035.30182832,240717206.67112553,187005662.28160667
+6,Incidence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,1996,2475186.9258659845,2952520.1817506845,2065429.498221774
+6,Incidence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,1996,34196482.21053183,41508037.442588605,27530309.671509866
+6,Incidence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,1996,8836394.180676594,12181807.536321849,6022958.689626298
+6,Incidence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,1996,592735.5460899741,706420.0351766456,492533.5918613389
+6,Incidence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,1996,4323090.8172003105,6127817.865227382,2875770.7512497827
+6,Incidence,1,Global,3,Both,22,All ages,579,Conduct disorder,1,Number,1996,12465508.262905022,16341451.374163117,8940087.250412408
+6,Incidence,1,Global,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,1996,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,1996,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,294,All causes,1,Number,1996,30965885240.306038,32779335454.5793,29312999398.7638
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,1996,1023875.3835809729,1223147.8055002592,869278.4514751793
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,1997,1036716.07960982,1237139.7848515187,878712.8415017875
+6,Incidence,1,Global,3,Both,22,All ages,294,All causes,1,Number,1999,32034419318.149055,33892170426.315815,30313548812.18185
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2000,1077220.4606263812,1282620.5501049527,915615.0898809849
+6,Incidence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2000,227041870.6219389,255405090.09734514,200644084.43886274
+6,Incidence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2000,2646064.2645607553,3153353.5482235337,2204991.100572175
+6,Incidence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2000,36698792.46568259,44211503.60602962,29783145.61257801
+6,Incidence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2000,9334534.734246768,13003791.914905453,6355163.820756009
+6,Incidence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2000,588378.9437319913,701086.6252319528,488669.90747966006
+6,Incidence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2000,4166336.035015293,5870787.807398816,2793926.108491165
+6,Incidence,1,Global,3,Both,22,All ages,579,Conduct disorder,1,Number,2000,12869134.696670245,16902493.69581015,9295222.665686673
+6,Incidence,1,Global,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2000,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2000,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,1999,1062956.0918219073,1264035.9418116622,901325.8144388761
+6,Incidence,1,Global,3,Both,22,All ages,294,All causes,1,Number,1998,31673425772.529396,33537880499.752724,29973261167.453274
+6,Incidence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,1998,2561110.8603550326,3054060.150606079,2137022.7781488155
+6,Incidence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,1998,35511514.94305158,42930667.436290324,28676579.56246623
+6,Incidence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,1998,9076538.279818753,12580948.243236434,6179466.239261994
+6,Incidence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,1998,590006.2185157608,703128.8047251573,490130.1189825116
+6,Incidence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,1998,4265310.405148296,6021545.200014984,2852725.47466966
+6,Incidence,1,Global,3,Both,22,All ages,579,Conduct disorder,1,Number,1998,12712333.37192726,16676645.465012647,9148858.14954055
+6,Incidence,1,Global,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,1998,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,1998,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,1998,219803153.66116273,247900558.9351456,193955912.7803896
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,1998,1049676.9260706815,1249834.9025479376,888583.2303622315
+6,Incidence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,1999,223304238.4847719,251402363.22475183,197273856.29681265
+6,Incidence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,1999,2603851.868779581,3104158.438618117,2171313.0822111983
+6,Incidence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,1999,36148548.904071495,43575227.34428234,29269644.56553948
+6,Incidence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,1999,9203593.044202032,12794853.440242648,6266831.121538129
+6,Incidence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,1999,589139.0451529545,702029.9125445675,489364.30840746756
+6,Incidence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,1999,4218269.781367899,5951381.255129509,2825984.7634144677
+6,Incidence,1,Global,3,Both,22,All ages,579,Conduct disorder,1,Number,1999,12803253.147838613,16807076.713092055,9231405.279372256
+6,Incidence,1,Global,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,1999,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,1999,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2001,231227189.66767913,260129270.1959505,204351080.09813917
+6,Incidence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2001,2688766.009740849,3204591.0444205976,2238743.9172477573
+6,Incidence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2001,37123789.2566281,44709940.74198837,30125394.403217096
+6,Incidence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2001,9483474.326319229,13192901.891516924,6456344.62841561
+6,Incidence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2001,587122.610707793,699666.8766134045,487558.01036643266
+6,Incidence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2001,4121210.869079213,5814470.143608783,2763396.197888939
+6,Incidence,1,Global,3,Both,22,All ages,579,Conduct disorder,1,Number,2001,12913552.31719833,16973395.572599456,9357808.39535158
+6,Incidence,1,Global,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2001,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2001,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,294,All causes,1,Number,2001,32760898793.57181,34619596298.85612,31017417258.824207
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2001,1092421.3958996779,1300782.0094722582,928283.366552984
+6,Incidence,1,Global,3,Both,22,All ages,294,All causes,1,Number,2002,33110613583.53049,34976255266.871086,31344089939.405403
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2002,1108191.4111716081,1317728.2667708932,941678.6328457344
+6,Incidence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2004,244955324.38586065,276004584.81806093,216639240.12284088
+6,Incidence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2004,2818101.4727145596,3361196.2520112516,2342248.1148015293
+6,Incidence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2004,38056392.084203616,45937681.483612254,30888981.338130876
+6,Incidence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2004,10011718.532818226,13916105.814588288,6818151.840532123
+6,Incidence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2004,593183.2421610799,706997.9552488507,492567.4549208049
+6,Incidence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2004,4039583.07600406,5680900.374383608,2723302.7193541103
+6,Incidence,1,Global,3,Both,22,All ages,579,Conduct disorder,1,Number,2004,12968961.851032576,17064671.417341102,9441298.509214489
+6,Incidence,1,Global,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2004,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2004,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2003,240414490.3301913,270812820.28497946,212697138.44129807
+6,Incidence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2003,2775918.73201367,3310067.451071349,2308466.418728286
+6,Incidence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2003,37750041.77139879,45514671.18369536,30637967.730488982
+6,Incidence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2003,9835480.58932058,13658403.162828885,6696886.987823344
+6,Incidence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2003,591035.5545466094,704383.935648266,490793.3667666513
+6,Incidence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2003,4059538.972445601,5702994.6864633635,2721214.6547945626
+6,Incidence,1,Global,3,Both,22,All ages,579,Conduct disorder,1,Number,2003,12962061.086570682,17033165.307377994,9431171.517074205
+6,Incidence,1,Global,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2003,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2003,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,294,All causes,1,Number,2003,33451747744.96667,35326808327.09997,31670067663.46557
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2003,1124225.560089596,1335429.508599757,956712.4430663512
+6,Incidence,1,Global,3,Both,22,All ages,294,All causes,1,Number,2004,33794395325.878273,35679814082.335014,32013566748.660824
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2004,1139982.2939979911,1353232.832009799,971907.0619737274
+6,Incidence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2002,235766471.13923222,265394834.1570897,208448404.5196247
+6,Incidence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2002,2732526.690719969,3257240.3352034744,2273810.5303310235
+6,Incidence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2002,37457786.40358476,45130706.15571859,30397928.372351162
+6,Incidence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2002,9654753.275734363,13405268.532845385,6573297.147116066
+6,Incidence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2002,588328.9818481735,701135.7397468456,488535.38677928026
+6,Incidence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2002,4086394.3433284494,5756700.140641641,2736182.4497054406
+6,Incidence,1,Global,3,Both,22,All ages,579,Conduct disorder,1,Number,2002,12944855.062166952,17002507.770230617,9409931.19251275
+6,Incidence,1,Global,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2002,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2002,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2005,1155380.3111192163,1371943.8744502678,983874.6778654744
+6,Incidence,1,Global,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2007,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2007,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2008,249524588.17027545,280045810.69297045,222131842.25505495
+6,Incidence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2008,2971358.9926752658,3549699.8033894408,2474101.2993666343
+6,Incidence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2008,40283260.25428121,48879004.7046517,32607896.619737923
+6,Incidence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2008,10658229.918351013,14794512.624223543,7265857.448737087
+6,Incidence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2008,609275.9012342205,726294.8127126571,506090.6555442464
+6,Incidence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2008,4044978.3952662544,5682671.883664475,2706154.5385655104
+6,Incidence,1,Global,3,Both,22,All ages,579,Conduct disorder,1,Number,2008,13000693.310383553,17090202.845606957,9448948.315689228
+6,Incidence,1,Global,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2008,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2008,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2007,250904786.83554736,281899247.3606192,222875931.29277822
+6,Incidence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2007,2934150.908434168,3505713.9797605746,2441096.13966933
+6,Incidence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2007,39594354.10886583,48003327.425833374,32050332.296532705
+6,Incidence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2007,10493000.487207955,14585408.681591965,7154536.998178217
+6,Incidence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2007,605552.3061404367,721776.9150761701,502978.01645348076
+6,Incidence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2007,4030844.4393441714,5669156.627267885,2703698.4170554685
+6,Incidence,1,Global,3,Both,22,All ages,579,Conduct disorder,1,Number,2007,12978638.484402893,17064713.720445536,9436449.836464666
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2007,1185647.128203366,1408921.0927386445,1010464.9523449353
+6,Incidence,1,Global,3,Both,22,All ages,294,All causes,1,Number,2006,34454482890.74049,36368751512.39856,32663529808.544502
+6,Incidence,1,Global,3,Both,22,All ages,294,All causes,1,Number,2007,34755858140.31648,36700153462.23103,32966592966.631126
+6,Incidence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2005,595870.3291503005,710193.1172446627,494824.6847484252
+6,Incidence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2005,4025942.8968223417,5673848.882341368,2711238.848159009
+6,Incidence,1,Global,3,Both,22,All ages,579,Conduct disorder,1,Number,2005,12966533.485771194,17064420.925287653,9435852.092768341
+6,Incidence,1,Global,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2005,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2005,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,294,All causes,1,Number,2005,34127025904.548008,36030164732.841354,32345121248.2247
+6,Incidence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2005,249119204.76369104,280408923.1866916,220155677.99997684
+6,Incidence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2005,2857823.807838035,3410279.5308434484,2373989.667210786
+6,Incidence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2005,38432667.40682667,46447466.757580966,31174056.79630607
+6,Incidence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2005,10169655.634262104,14138927.141095877,6928404.4496127665
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2006,1170570.6751066332,1391252.037368241,996676.8139571185
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2008,1199665.161590499,1424355.064119637,1021365.3254199453
+6,Incidence,1,Global,3,Both,22,All ages,294,All causes,1,Number,2009,35330084916.972694,37335200305.80737,33516203613.364937
+6,Incidence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2009,248808176.01034656,279080545.9403154,221676196.71605062
+6,Incidence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2009,3007132.6479253024,3591339.6972348345,2506033.0426872964
+6,Incidence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2009,40935673.953142256,49706855.70676465,33128851.222706746
+6,Incidence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2009,10807001.649409685,14970738.768637296,7379510.292356991
+6,Incidence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2009,610803.613305877,728230.3223491227,507352.5425092108
+6,Incidence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2009,4059895.490426441,5709042.79069169,2720323.0271273744
+6,Incidence,1,Global,3,Both,22,All ages,579,Conduct disorder,1,Number,2009,13031393.676779157,17124192.982607525,9467732.174209926
+6,Incidence,1,Global,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2009,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2009,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2009,1212012.6805598864,1440160.2391089585,1030437.9285787351
+6,Incidence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2006,251270989.0510792,282777137.54601425,222512190.6301227
+6,Incidence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2006,2895974.345810318,3458018.1285911077,2407463.2666456155
+6,Incidence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2006,38949700.44738113,47151084.145935595,31559279.519804563
+6,Incidence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2006,10325077.498781962,14359337.722221233,7049504.156744264
+6,Incidence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2006,600402.7486608697,715601.4743159275,498641.66572632757
+6,Incidence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2006,4022563.3828144455,5662991.149613921,2707069.5210664324
+6,Incidence,1,Global,3,Both,22,All ages,579,Conduct disorder,1,Number,2006,12966280.922270149,17058860.729918364,9431303.5835612
+6,Incidence,1,Global,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2006,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2006,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,294,All causes,1,Number,2010,35689915311.71138,37720812301.82506,33851407883.84973
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2010,1223209.5862179261,1455574.8056950963,1038579.8523578823
+6,Incidence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2010,250622697.81842208,280964270.52490866,223744143.5638973
+6,Incidence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2010,3042374.943888423,3637900.9778286708,2536292.2549746246
+6,Incidence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2010,41487236.77278723,50402459.99665896,33580637.46505436
+6,Incidence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2010,10933417.166655876,15109900.055898456,7460720.255084376
+6,Incidence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2010,610164.256512809,727592.2731141549,506801.33243160543
+6,Incidence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2010,4071678.0224678577,5714124.364605144,2732778.2298025936
+6,Incidence,1,Global,3,Both,22,All ages,579,Conduct disorder,1,Number,2010,13074669.76135123,17179071.819238544,9497728.479097571
+6,Incidence,1,Global,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2010,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2010,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,294,All causes,1,Number,2008,35054927686.06387,37029441486.24128,33269248856.264145
+6,Incidence,1,Global,3,Both,22,All ages,294,All causes,1,Number,2012,36585152728.40845,38634596279.03202,34729237522.479706
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2012,1242284.7097374892,1480090.5407474767,1051822.2229837019
+6,Incidence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2012,258800936.58479363,290446175.548503,230732292.02818793
+6,Incidence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2012,3113711.5729374313,3720779.8745913687,2590343.396672529
+6,Incidence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2012,42282265.911572985,51415124.61206261,34200693.66132347
+6,Incidence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2012,11175771.180579502,15478941.26026032,7645782.984940271
+6,Incidence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2012,616226.7460601778,734806.705588493,511939.2172070553
+6,Incidence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2012,4095127.09704029,5749906.680516532,2724936.0327958516
+6,Incidence,1,Global,3,Both,22,All ages,579,Conduct disorder,1,Number,2012,13265109.349576557,17401160.180810202,9637554.756809045
+6,Incidence,1,Global,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2012,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2012,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,294,All causes,1,Number,2011,36113122057.03355,38155580657.286285,34265156493.333218
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2011,1233299.1847816983,1468905.7566126564,1046166.6477494717
+6,Incidence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2011,254557386.62282312,285277964.48787135,227280790.22035402
+6,Incidence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2011,3077877.7310005096,3680068.1276258403,2563186.120444592
+6,Incidence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2011,41917228.51133073,50943338.93500889,33922368.987045825
+6,Incidence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2011,11053011.48848332,15281997.487350173,7559697.601746579
+6,Incidence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2011,612365.7526792354,730193.2914494985,508660.55259430455
+6,Incidence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2011,4081552.918862363,5724689.854235459,2728053.3118540104
+6,Incidence,1,Global,3,Both,22,All ages,579,Conduct disorder,1,Number,2011,13150912.854266575,17264108.15290068,9562555.467066368
+6,Incidence,1,Global,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2011,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2011,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2013,1250335.8969454556,1491467.108929769,1058264.5768607794
+6,Incidence,1,Global,3,Both,22,All ages,294,All causes,1,Number,2013,37072148209.036125,39131938674.53948,35204281408.564125
+6,Incidence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2013,263244397.63444012,295812327.373363,234496678.61677343
+6,Incidence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2013,3150262.908264882,3762171.9367505475,2622349.278429418
+6,Incidence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2013,42629379.5165154,51864298.598810926,34435798.785540596
+6,Incidence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2013,11297677.388924748,15665429.83768538,7727122.735225855
+6,Incidence,1,Global,3,Both,22,All ages,294,All causes,1,Number,2015,38015760563.50578,40116500815.05226,36066338469.110535
+6,Incidence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2013,615134.0762952263,733502.626125505,511029.55874770053
+6,Incidence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2013,4113004.742977865,5774178.575702605,2727164.213923665
+6,Incidence,1,Global,3,Both,22,All ages,579,Conduct disorder,1,Number,2013,13398591.719243497,17544999.251983885,9726950.743576523
+6,Incidence,1,Global,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2013,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2013,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2015,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2015,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,294,All causes,1,Number,2014,37557041133.99612,39638881453.16262,35647636250.0565
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2015,1264749.7900368753,1512178.4026402242,1070417.2929849843
+6,Incidence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2015,272295838.5797599,306731734.0658639,240613386.25494975
+6,Incidence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2015,3225534.3711154344,3848127.0716509977,2693419.6841775654
+6,Incidence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2015,43450022.17256009,52891214.078105114,35064112.76378254
+6,Incidence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2015,11525299.091357121,15985607.809761433,7881104.363669327
+6,Incidence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2015,619331.6872154193,738510.7496420958,514712.49985923845
+6,Incidence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2015,4144871.893263093,5819640.876463949,2747211.9718083316
+6,Incidence,1,Global,3,Both,22,All ages,579,Conduct disorder,1,Number,2015,13633222.035691632,17823988.918915145,9885046.150163155
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2014,1257709.944963287,1503934.561821043,1064364.172600774
+6,Incidence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2017,281030668.06425136,315951617.4053922,249171376.4140999
+6,Incidence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2017,3304263.6661312575,3934397.4401775133,2764484.3233306897
+6,Incidence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2017,44643929.35309999,54320361.29897236,35972859.92455945
+6,Incidence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2017,11809464.975202186,16230739.430829663,8066635.219498321
+6,Incidence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2017,610222.6900450729,727197.8167882832,507386.10731511796
+6,Incidence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2017,4187265.8690453186,5911531.976690984,2778540.5380651103
+6,Incidence,1,Global,3,Both,22,All ages,579,Conduct disorder,1,Number,2017,13814517.308683882,18051626.819324765,10025437.713656861
+6,Incidence,1,Global,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2017,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2017,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2016,276636986.18378013,311327321.2689203,244856959.08749202
+6,Incidence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2016,3264298.1713820808,3890690.2460162365,2730684.107274276
+6,Incidence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2016,44031654.77596904,53583293.72509709,35498109.945825875
+6,Incidence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2016,11671235.324491067,16117348.960863316,7974551.856560128
+6,Incidence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2016,621889.6185760498,741366.6358267528,517083.45057770354
+6,Incidence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2016,4162854.0675145085,5863860.640537456,2764117.504691885
+6,Incidence,1,Global,3,Both,22,All ages,579,Conduct disorder,1,Number,2016,13721226.895047782,17933094.394339353,9953091.994159995
+6,Incidence,1,Global,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2016,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2016,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,294,All causes,1,Number,2017,39055573327.41592,41260009489.90275,37103846747.05789
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2017,1282585.224312078,1530441.7442160493,1085794.4649840307
+6,Incidence,1,Global,3,Both,22,All ages,294,All causes,1,Number,2016,38527486764.12261,40662404272.757576,36620299377.936844
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2016,1273879.849073169,1521418.9654565088,1077931.0561860178
+6,Incidence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2014,267778327.19865617,301317768.99376297,237724085.46167362
+6,Incidence,1,Global,3,Both,22,All ages,294,All causes,1,Number,2018,39586801357.01236,41834226900.13497,37605031670.225845
+6,Incidence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2014,3187421.5838297475,3804521.5312677054,2655616.487955458
+6,Incidence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2014,43001506.01466838,52332929.68694385,34713532.12250299
+6,Incidence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2014,11415117.932900753,15836108.599114574,7805773.472357216
+6,Incidence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2014,613099.9174483963,731042.235002442,509350.82629840146
+6,Incidence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2014,4131075.931348667,5799630.380562857,2737649.0203766925
+6,Incidence,1,Global,3,Both,22,All ages,579,Conduct disorder,1,Number,2014,13529010.630555043,17718844.818729587,9815052.11808376
+6,Incidence,1,Global,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2014,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2014,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2018,1287358.8035437935,1534523.8320457195,1088813.3086687704
+6,Incidence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2018,285596401.04704887,322003993.1102757,252664773.20361903
+6,Incidence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2018,3346027.1616763156,3980156.625929421,2799271.475540031
+6,Incidence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2018,45225072.97801386,54975638.03421298,36538612.14867278
+6,Incidence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2018,11910934.435938366,16354726.723581677,8136401.100861596
+6,Incidence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2018,602322.2756398662,718037.8522564338,500630.2344969065
+6,Incidence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2018,4201034.927020856,5937485.037325866,2777914.7689319123
+6,Incidence,1,Global,3,Both,22,All ages,579,Conduct disorder,1,Number,2018,13905070.715817962,18171901.433943033,10094893.372187847
+6,Incidence,1,Global,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2018,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2018,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,294,All causes,1,Number,2019,40206346223.58266,42478317909.63138,38197177378.104935
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2019,1289832.8083985066,1534851.1880266936,1089005.294117176
+6,Incidence,1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2019,290185741.57792175,328260552.74590427,256024052.35315865
+6,Incidence,1,Global,3,Both,22,All ages,570,Bipolar disorder,1,Number,2019,3388806.1553744907,4029561.2305342313,2835180.3813743615
+6,Incidence,1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2019,45821085.56508017,55624209.43864917,37137079.52992278
+6,Incidence,1,Global,3,Both,22,All ages,572,Eating disorders,1,Number,2019,12012600.786500638,16480364.016779086,8201038.86384432
+6,Incidence,1,Global,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2019,603789.8619370832,720096.5273718825,501680.12259937375
+6,Incidence,1,Global,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2019,4198973.6051170295,5936690.936411142,2774996.191139289
+6,Incidence,1,Global,3,Both,22,All ages,579,Conduct disorder,1,Number,2019,13985356.71287105,18280083.54082997,10156801.864888595
+6,Incidence,1,Global,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2019,0.0,0.0,0.0
+6,Incidence,1,Global,3,Both,22,All ages,585,Other mental disorders,1,Number,2019,0.0,0.0,0.0

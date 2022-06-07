@@ -1,0 +1,541 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,410,Neoplasms,1,Number,1990,164724864.0133371,172472608.25264186,156599859.4692514
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,410,Neoplasms,1,Number,1990,90511188.90619695,94306547.61956187,86807843.64026976
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,410,Neoplasms,1,Number,1990,7820015.972514022,8446754.723871412,7219523.963093422
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,410,Neoplasms,1,Number,1990,10632407.636955965,13538686.78707842,8012183.925145695
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,410,Neoplasms,1,Number,1990,36611326.55074632,38513247.253286615,34771864.384782515
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,410,Neoplasms,1,Number,1990,19149924.946924005,19879150.11759113,17842944.58967794
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,1990,29089267.46958309,40034593.09820335,20346286.78597177
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,567,Depressive disorders,1,Number,1990,7038230.3672301695,9813464.100727322,4868145.289102294
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,567,Depressive disorders,1,Number,1990,6980046.297223096,10326307.158977497,4494581.017413184
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,567,Depressive disorders,1,Number,1990,93216.94546249037,164756.55998670572,46820.40787933975
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,567,Depressive disorders,1,Number,1990,13990125.417414729,19460935.81363476,9503996.21184504
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,567,Depressive disorders,1,Number,1990,987648.4422526091,1358699.4577993471,668991.3758973094
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,1990,18661018.45994616,25547292.129108313,12901152.012585176
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,571,Anxiety disorders,1,Number,1990,3301374.9566948493,4659078.228159857,2243704.892782235
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,571,Anxiety disorders,1,Number,1990,6356990.448441959,9157720.299972624,4183465.497649027
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,571,Anxiety disorders,1,Number,1990,834465.1571208255,1317692.2985344443,499500.6917055706
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,571,Anxiety disorders,1,Number,1990,7728098.156873192,10968408.531229725,5046507.4247604245
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,571,Anxiety disorders,1,Number,1990,440089.740815342,637151.4932550113,291470.78866969375
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,1992,30937664.75508445,42658305.5620987,21617466.34101289
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,567,Depressive disorders,1,Number,1992,7459058.7894294625,10375127.433132106,5156574.769379912
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,567,Depressive disorders,1,Number,1992,7202021.651323949,10634098.441175641,4674624.796969564
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,567,Depressive disorders,1,Number,1992,93942.61603202905,166025.57884889445,46434.79793083557
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,567,Depressive disorders,1,Number,1992,15167103.177883068,21204161.923167348,10326425.460118858
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,567,Depressive disorders,1,Number,1992,1015538.520415926,1395952.2511033094,687202.8938120281
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,1992,19261577.457716458,26391224.05305524,13319217.757218486
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,571,Anxiety disorders,1,Number,1992,3418537.9727467042,4814026.572249205,2335631.174412784
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,571,Anxiety disorders,1,Number,1992,6422791.43038954,9239293.376489662,4240354.843201997
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,571,Anxiety disorders,1,Number,1992,858977.2470116086,1343330.8734386684,514384.60926931555
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,571,Anxiety disorders,1,Number,1992,8107004.655066118,11514770.352129681,5303439.758652087
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,571,Anxiety disorders,1,Number,1992,454266.15250247455,657832.272407925,300583.43330024654
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,410,Neoplasms,1,Number,1992,170554550.80616918,178445268.1367137,162884429.78004068
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,410,Neoplasms,1,Number,1992,93892464.39485158,97527840.91765082,90279924.66861553
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,410,Neoplasms,1,Number,1992,7843982.346705378,8443980.461931232,7252523.462645336
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,410,Neoplasms,1,Number,1992,10439650.278834863,13233375.822685294,8052647.373493212
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,410,Neoplasms,1,Number,1992,38581652.84131424,40433112.60416041,36820135.86861438
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,410,Neoplasms,1,Number,1992,19796800.944462918,20586255.338417083,18466706.200125396
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,1991,30034809.448694374,41405090.28710542,21015248.95384028
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,567,Depressive disorders,1,Number,1991,7254161.401675827,10110161.899707578,5015195.039433528
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,567,Depressive disorders,1,Number,1991,7097850.622821804,10524479.013761505,4610081.315006143
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,567,Depressive disorders,1,Number,1991,93437.72278406558,166389.41062950896,46629.51414305836
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,567,Depressive disorders,1,Number,1991,14586224.46633792,20281054.5949071,9927917.418978881
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,567,Depressive disorders,1,Number,1991,1003135.2350747428,1378415.5041729861,679924.6009526175
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,1991,18960625.572852314,25948279.027960446,13093271.68181905
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,571,Anxiety disorders,1,Number,1991,3360722.1891336096,4733420.625592026,2293001.526005763
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,571,Anxiety disorders,1,Number,1991,6389620.8874833025,9203417.19027198,4223042.458351714
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,571,Anxiety disorders,1,Number,1991,846628.6900633412,1326759.3585074486,507360.91757009766
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,571,Anxiety disorders,1,Number,1991,7915827.804653601,11248840.52696571,5164499.218855482
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,571,Anxiety disorders,1,Number,1991,447826.0015184376,646824.7803795901,295793.74843841506
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,1993,31778008.986887634,43715664.96025781,22210244.581364173
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,567,Depressive disorders,1,Number,1993,7648172.424877275,10627411.889920369,5281444.261999621
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,567,Depressive disorders,1,Number,1993,7291116.122588441,10768611.636034224,4724275.360094195
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,567,Depressive disorders,1,Number,1993,94443.64566744128,167024.14191010664,45999.21400816043
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,567,Depressive disorders,1,Number,1993,15716937.015801322,21915024.67751087,10701229.865175795
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,567,Depressive disorders,1,Number,1993,1027339.7779531344,1413227.1044186384,696661.7597055273
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,1993,19566768.91601278,26779106.463207673,13539841.038141795
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,571,Anxiety disorders,1,Number,1993,3476011.11389762,4890321.108813617,2375430.240143445
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,571,Anxiety disorders,1,Number,1993,6461086.988628811,9299620.599248555,4264064.120864535
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,571,Anxiety disorders,1,Number,1993,871134.8028421332,1365038.9653263772,519110.0446159289
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,571,Anxiety disorders,1,Number,1993,8298300.970250907,11779177.92740228,5428159.471921137
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,571,Anxiety disorders,1,Number,1993,460235.04039329523,662884.4684234164,305085.1899992912
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,1994,32548991.69224768,44623689.83031839,22717908.109834604
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,567,Depressive disorders,1,Number,1994,7816536.830183291,10875693.441071978,5406659.646505501
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,567,Depressive disorders,1,Number,1994,7366238.184923818,10871986.991609715,4776517.968440465
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,567,Depressive disorders,1,Number,1994,95111.92867850968,169796.63650862442,46694.74543252253
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,567,Depressive disorders,1,Number,1994,16227297.297828188,22719079.04355899,11056240.006508699
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,567,Depressive disorders,1,Number,1994,1043807.4506338546,1434298.4745603432,706537.8084817553
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,1994,19875012.296196792,27212067.660379115,13763191.217913574
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,571,Anxiety disorders,1,Number,1994,3531281.911580164,4967887.444474522,2419080.03085416
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,571,Anxiety disorders,1,Number,1994,6502768.903356099,9349255.705933725,4288337.369064945
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,571,Anxiety disorders,1,Number,1994,881584.4204387207,1382294.0601529833,527167.7804775983
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,571,Anxiety disorders,1,Number,1994,8491006.599687539,12008942.917868944,5548418.791862376
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,571,Anxiety disorders,1,Number,1994,468370.4611342883,673164.6740898745,310253.199184175
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,410,Neoplasms,1,Number,1991,167458202.62752232,175439002.7953503,159738880.46050915
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,410,Neoplasms,1,Number,1991,92102138.28471462,95935196.09650971,88642698.18116233
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,410,Neoplasms,1,Number,1991,7828843.368884404,8415070.411367364,7219580.3210943155
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,410,Neoplasms,1,Number,1991,10567684.85155437,13384221.35045254,8054494.043764244
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,410,Neoplasms,1,Number,1991,37468168.45383897,39361465.29961917,35712807.49959806
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,410,Neoplasms,1,Number,1991,19491367.66853015,20255955.94121969,18298770.971479688
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,1995,20189131.937704217,27614316.104757838,13995894.14336379
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,571,Anxiety disorders,1,Number,1995,3583354.3103976273,5034254.261451279,2455451.1461120276
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,571,Anxiety disorders,1,Number,1995,6553325.736307624,9424457.424550897,4320246.38800527
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,571,Anxiety disorders,1,Number,1995,888300.5840241751,1390924.446087423,528763.3252347659
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,571,Anxiety disorders,1,Number,1995,8684029.70703052,12279013.54701493,5664719.632823654
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,571,Anxiety disorders,1,Number,1995,480121.5999442982,690300.9708841686,318586.9759382878
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,410,Neoplasms,1,Number,1993,174709075.27759403,182338675.234829,167589503.99102792
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,410,Neoplasms,1,Number,1993,96443505.66476929,99888905.3463468,93219444.37883416
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,410,Neoplasms,1,Number,1993,7850805.49646483,8431662.180710768,7263277.825937667
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,410,Neoplasms,1,Number,1993,10289494.367870538,12970407.12274824,7944967.7463455815
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,410,Neoplasms,1,Number,1993,39909191.50378961,41822538.324831784,38147192.38517257
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,410,Neoplasms,1,Number,1993,20216078.244700138,21013177.07218954,18904467.67246394
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,1996,33841535.022523575,46316618.44594349,23632566.228175107
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,567,Depressive disorders,1,Number,1996,8110484.209105386,11295793.424213856,5648767.463410637
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,567,Depressive disorders,1,Number,1996,7488998.40520353,11091528.204923945,4859508.324216802
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,567,Depressive disorders,1,Number,1996,96373.7122217671,172442.45131863476,47186.35600571786
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,567,Depressive disorders,1,Number,1996,17051779.369373444,23767510.780207444,11646173.166759092
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,567,Depressive disorders,1,Number,1996,1093899.3266194589,1502990.6774469859,744736.0109388861
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,1996,20561278.972706597,28092689.353179462,14267934.868004253
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,571,Anxiety disorders,1,Number,1996,3653457.130110208,5116735.221343454,2506235.950068956
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,571,Anxiety disorders,1,Number,1996,6625982.119874257,9520581.781928753,4387314.154188923
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,571,Anxiety disorders,1,Number,1996,892686.2591580764,1398884.539549301,533778.709308122
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,571,Anxiety disorders,1,Number,1996,8893761.917393457,12557865.638028827,5821379.957090727
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,571,Anxiety disorders,1,Number,1996,495391.5461705864,708688.5436867351,327301.97648674075
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,1997,34407992.78648783,46993383.927145496,24061676.083235092
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,567,Depressive disorders,1,Number,1997,8296858.120507489,11561655.935597239,5781787.620552992
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,567,Depressive disorders,1,Number,1997,7554431.21653822,11162669.650198305,4918013.212598354
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,567,Depressive disorders,1,Number,1997,97070.9455568768,171881.7639630443,46509.27264940153
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,567,Depressive disorders,1,Number,1997,17336483.66242453,24192038.94677393,11828259.387085661
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,567,Depressive disorders,1,Number,1997,1123148.8414607844,1537778.9123433128,763013.9937059843
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,1997,21016546.41084727,28761350.168678224,14606617.3082575
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,571,Anxiety disorders,1,Number,1997,3758335.064959761,5271658.938727631,2581726.9994405545
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,571,Anxiety disorders,1,Number,1997,6730321.77665142,9637946.81550732,4440895.1520428825
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,571,Anxiety disorders,1,Number,1997,896334.4789921314,1400418.9849153664,536724.2095439844
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,571,Anxiety disorders,1,Number,1997,9117768.833690073,12850453.531006651,5993634.014050985
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,571,Anxiety disorders,1,Number,1997,513786.25655387755,734014.8012890352,339193.3618481463
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,410,Neoplasms,1,Number,1997,183802236.83225566,190694455.53844172,177170979.93732235
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,410,Neoplasms,1,Number,1997,99562998.6988672,102452556.04223947,96653453.34758301
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,410,Neoplasms,1,Number,1997,8035431.183068521,8572536.68292799,7474074.446808888
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,410,Neoplasms,1,Number,1997,9445740.548187794,11757566.543727359,7447083.221757844
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,410,Neoplasms,1,Number,1997,44304268.968411475,46040033.61328901,42636655.61413807
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,410,Neoplasms,1,Number,1997,22453797.43372052,23306659.14960275,20833606.594863553
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,1995,33233292.505790602,45454549.61985658,23184154.916224513
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,567,Depressive disorders,1,Number,1995,7961603.1600035345,11110343.101884104,5534682.409132808
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,567,Depressive disorders,1,Number,1995,7430540.774079027,11013553.64012949,4818144.07183141
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,567,Depressive disorders,1,Number,1995,95736.58939740872,169701.60746435783,46729.794946114846
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,567,Depressive disorders,1,Number,1995,16679003.949679302,23263148.83652726,11379700.97058923
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,567,Depressive disorders,1,Number,1995,1066408.032631296,1465626.5293323952,723476.601663147
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,410,Neoplasms,1,Number,1994,178063895.7143987,185081358.19257522,170882824.4029212
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,410,Neoplasms,1,Number,1994,97830358.4463577,101049528.96852526,94424770.865176
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,410,Neoplasms,1,Number,1994,7913937.410623765,8462275.313488863,7351046.733506593
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,410,Neoplasms,1,Number,1994,10129824.632357644,12710325.372357495,7866426.812446982
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,410,Neoplasms,1,Number,1994,41667259.49183889,43470863.09579056,39869230.78888579
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,410,Neoplasms,1,Number,1994,20522515.733220927,21323575.439077884,19115707.068269387
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,410,Neoplasms,1,Number,1996,182001532.91558185,188938205.7022541,175115707.84554404
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,410,Neoplasms,1,Number,1996,98810126.49666972,101814262.2803326,95840462.93056041
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,410,Neoplasms,1,Number,1996,7993734.74216737,8537803.347252442,7465660.441053193
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,410,Neoplasms,1,Number,1996,9685191.751408447,12093060.788884677,7615278.625701776
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,410,Neoplasms,1,Number,1996,43778307.51397268,45428364.8074031,42133381.828892276
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,410,Neoplasms,1,Number,1996,21734172.411363777,22591092.86445416,20236475.193330288
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,1999,35516814.3234631,48482604.13719258,24830274.121778693
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,567,Depressive disorders,1,Number,1999,8698806.66078625,12103315.92118559,6087346.473474697
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,567,Depressive disorders,1,Number,1999,7720414.078967333,11340458.940926153,5045863.073115081
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,567,Depressive disorders,1,Number,1999,97744.20475016505,172027.13945143175,48086.59804979468
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,567,Depressive disorders,1,Number,1999,17810607.994503647,24774322.874822132,12198741.435122699
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,567,Depressive disorders,1,Number,1999,1189241.384455729,1631887.184675139,806400.7840051898
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,1999,21990768.497132998,30023857.609997656,15310869.8704255
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,571,Anxiety disorders,1,Number,1999,3998493.2363942894,5568480.059851667,2742989.0179908234
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,571,Anxiety disorders,1,Number,1999,6978033.792078694,9970559.143601421,4620454.409405392
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,571,Anxiety disorders,1,Number,1999,893740.9643485189,1386914.2677828637,537658.1445144482
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,571,Anxiety disorders,1,Number,1999,9565972.328069335,13396989.99579926,6322082.62079354
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,571,Anxiety disorders,1,Number,1999,554528.1762421388,784406.4138913171,367805.2061653779
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,1998,34956619.464541234,47741936.82988228,24471018.56470948
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,567,Depressive disorders,1,Number,1998,8488661.418099372,11832131.17230359,5931445.297221048
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,567,Depressive disorders,1,Number,1998,7631323.145136778,11244372.480535634,4975383.366384534
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,567,Depressive disorders,1,Number,1998,97538.7332561901,172580.3137690363,48571.96108004997
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,567,Depressive disorders,1,Number,1998,17584441.60302643,24510271.482725054,12021054.459934713
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,567,Depressive disorders,1,Number,1998,1154654.565022449,1582121.2826313055,786057.9983190916
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,1998,21509340.37135141,29378367.03964785,14952686.577027913
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,571,Anxiety disorders,1,Number,1998,3874875.2966124644,5406511.447900282,2667302.858589702
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,571,Anxiety disorders,1,Number,1998,6852374.602838463,9795367.892206427,4528245.654100135
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,571,Anxiety disorders,1,Number,1998,897408.1494514317,1392577.6412936482,541110.8051164354
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,571,Anxiety disorders,1,Number,1998,9350773.131868249,13138147.110813841,6179852.384332266
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,571,Anxiety disorders,1,Number,1998,533909.1905807762,756953.0122799863,354102.9630100887
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2000,36120523.64450132,49367957.84929302,25279519.226232883
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,567,Depressive disorders,1,Number,2000,8887568.956935143,12380213.464154886,6210772.896232838
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,567,Depressive disorders,1,Number,2000,7823992.988313512,11487734.78678294,5109168.154295574
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,567,Depressive disorders,1,Number,2000,97718.61845579438,173289.31071760008,48119.65325251205
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,567,Depressive disorders,1,Number,2000,18083650.72672878,25159413.661566712,12388752.869437344
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,567,Depressive disorders,1,Number,2000,1227592.3540680965,1683364.3779622372,833468.0241933732
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2000,22414320.709081203,30588425.175021514,15642998.185572412
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,571,Anxiety disorders,1,Number,2000,4101188.069970617,5694408.294276884,2814549.595913409
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,571,Anxiety disorders,1,Number,2000,7090661.121872177,10107597.5323939,4682454.086117453
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,571,Anxiety disorders,1,Number,2000,885728.5318239608,1376919.9136449816,534121.6403676717
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,571,Anxiety disorders,1,Number,2000,9762279.121300874,13686256.635907797,6463964.270099197
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,571,Anxiety disorders,1,Number,2000,574463.8641135808,812441.5093518333,380993.7870734865
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,410,Neoplasms,1,Number,1995,180420670.95065796,187289531.35524788,173559295.13684025
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,410,Neoplasms,1,Number,1995,98410345.43306364,101485848.2922377,95407970.59246325
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,410,Neoplasms,1,Number,1995,7979494.169938938,8502898.058142832,7418746.1388509115
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,410,Neoplasms,1,Number,1995,9941241.434443992,12432190.272545733,7753214.591803909
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,410,Neoplasms,1,Number,1995,43006383.69412913,44729876.5572735,41305590.41191686
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,410,Neoplasms,1,Number,1995,21083206.219081946,21925311.687908113,19607330.721383564
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,410,Neoplasms,1,Number,1999,189451123.92643064,196329301.56067538,182651798.21671674
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,410,Neoplasms,1,Number,1999,102280066.17282894,105388425.74711867,99045947.42478803
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,410,Neoplasms,1,Number,1999,8234968.667006117,8832219.760420492,7641830.282573336
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,410,Neoplasms,1,Number,1999,8870278.084909404,11007001.990413034,7028694.118798547
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,410,Neoplasms,1,Number,1999,45769569.07773294,47604458.490169354,44080728.03576435
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,410,Neoplasms,1,Number,1999,24296241.923953,25286247.380917296,22583726.23901305
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,410,Neoplasms,1,Number,1998,186107957.6811395,193023417.01887473,179237899.4567477
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,410,Neoplasms,1,Number,1998,100481465.18879142,103636582.44740376,97425881.09730205
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,410,Neoplasms,1,Number,1998,8120243.616562775,8665528.593443794,7565969.055418348
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,410,Neoplasms,1,Number,1998,9176827.453295246,11416085.068465335,7236464.264551334
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,410,Neoplasms,1,Number,1998,45010549.52404612,46694784.030131295,43277847.85272999
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,410,Neoplasms,1,Number,1998,23318871.898443975,24204826.16007618,21679168.577257656
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,410,Neoplasms,1,Number,2000,192358107.20071715,199179554.82175383,185246321.23653078
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,410,Neoplasms,1,Number,2000,103804521.89896208,106959785.50179474,100494142.33421408
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,410,Neoplasms,1,Number,2000,8290138.9965633955,8861480.97200015,7704070.940840093
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,410,Neoplasms,1,Number,2000,8573762.883458152,10561423.07080992,6824069.498266818
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,410,Neoplasms,1,Number,2000,46419039.69755261,48169457.72801795,44624217.02283243
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,410,Neoplasms,1,Number,2000,25270643.72418081,26263864.49512036,23523949.794401113
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2002,37530097.85290897,51314604.98748168,26301408.442770597
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,567,Depressive disorders,1,Number,2002,9380593.292633306,13048584.019530091,6564944.494833979
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,567,Depressive disorders,1,Number,2002,8112799.01251064,11950079.87659869,5287477.7317121755
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,567,Depressive disorders,1,Number,2002,99380.09449714069,175865.9672455311,48691.66189101148
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,567,Depressive disorders,1,Number,2002,18623559.486497357,25887829.197207112,12775518.00902683
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,567,Depressive disorders,1,Number,2002,1313765.9667705537,1798536.7910341523,891452.1267364074
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2002,23026657.971649,31481569.60769304,16070058.523805177
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,571,Anxiety disorders,1,Number,2002,4283749.18291909,5959680.303247052,2942962.66213215
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,571,Anxiety disorders,1,Number,2002,7255458.094043085,10317423.175447093,4797414.77837887
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,571,Anxiety disorders,1,Number,2002,871830.3153049462,1357112.157197375,522842.2982118509
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,571,Anxiety disorders,1,Number,2002,10006395.33390847,14030959.927794684,6636547.240471856
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,571,Anxiety disorders,1,Number,2002,609225.0454734196,859541.1142923167,406179.86101883795
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2004,39026100.88503016,53328803.67568892,27358021.334774915
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,567,Depressive disorders,1,Number,2004,9916486.263961788,13802518.180641897,6939630.934427193
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,567,Depressive disorders,1,Number,2004,8423097.287840407,12405825.849142399,5474285.738537634
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,567,Depressive disorders,1,Number,2004,102973.1813951857,182065.08367888592,50983.5275615163
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,567,Depressive disorders,1,Number,2004,19171215.26081497,26645829.43442583,13179720.745836223
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,567,Depressive disorders,1,Number,2004,1412328.891017856,1939140.4809955927,955963.2399851672
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2004,23517020.411958907,32059334.862277765,16420746.276279496
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,571,Anxiety disorders,1,Number,2004,4452821.777065222,6196304.986129476,3064725.6423648805
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,571,Anxiety disorders,1,Number,2004,7360656.900412175,10509226.468366547,4863753.38736777
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,571,Anxiety disorders,1,Number,2004,865397.8447108954,1348922.7433203508,517249.743968745
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,571,Anxiety disorders,1,Number,2004,10194414.188802099,14315089.701450942,6756894.745386107
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,571,Anxiety disorders,1,Number,2004,643729.7009685087,907400.9536530119,427841.4131816472
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2001,36798070.30857815,50263103.49352139,25771528.874620065
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,567,Depressive disorders,1,Number,2001,9131324.036470314,12699712.870564302,6388664.712111685
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,567,Depressive disorders,1,Number,2001,7954595.914762433,11690428.363815775,5196495.905526328
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,567,Depressive disorders,1,Number,2001,98205.2185670987,172872.05064891023,48607.84443282133
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,567,Depressive disorders,1,Number,2001,18344751.863785814,25517829.54161104,12606148.697892018
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,567,Depressive disorders,1,Number,2001,1269193.2749924653,1736552.7682529648,861375.1622268351
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2001,22750346.478662606,31073556.538274754,15882846.618312804
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,571,Anxiety disorders,1,Number,2001,4200860.752269266,5837792.47143336,2888827.341147295
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,571,Anxiety disorders,1,Number,2001,7181271.692503667,10246567.247886827,4747161.190560081
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,571,Anxiety disorders,1,Number,2001,877623.1400707916,1367585.2400827105,525406.5759260728
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,571,Anxiety disorders,1,Number,2001,9898070.38181535,13895086.262611914,6557638.384099374
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,571,Anxiety disorders,1,Number,2001,592520.5120035815,839415.0282459653,393032.2713413876
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2005,39715360.212646216,54214601.82878961,27836433.54531682
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,567,Depressive disorders,1,Number,2005,10196388.236053431,14198372.886470264,7136471.6326745795
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,567,Depressive disorders,1,Number,2005,8533080.871151071,12552723.537072185,5540406.0664068265
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,567,Depressive disorders,1,Number,2005,104683.93149868732,185193.5341450278,51475.49976685093
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,567,Depressive disorders,1,Number,2005,19416365.621777527,26936151.144029286,13340991.422323572
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,567,Depressive disorders,1,Number,2005,1464841.5521654706,2004953.5367654434,991813.7519589809
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2005,23802382.808236506,32475822.403812286,16591536.789945126
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,571,Anxiety disorders,1,Number,2005,4563729.729824149,6347782.423065204,3142493.534900019
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,571,Anxiety disorders,1,Number,2005,7395603.85328975,10577958.952353051,4893584.802530324
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,571,Anxiety disorders,1,Number,2005,864792.0966428804,1350513.1714813663,517188.190083158
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,571,Anxiety disorders,1,Number,2005,10314594.430182664,14499407.942881865,6836703.745264044
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,571,Anxiety disorders,1,Number,2005,663662.6982970997,937431.0685621564,443172.6923751229
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2003,38284011.81265173,52277875.761199854,26829235.6578878
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,567,Depressive disorders,1,Number,2003,9642138.642846951,13401167.267559819,6750943.168063705
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,567,Depressive disorders,1,Number,2003,8277751.846726624,12178543.44513994,5376799.161125743
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,567,Depressive disorders,1,Number,2003,101122.54934151332,179145.7391720677,49391.39416683037
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,567,Depressive disorders,1,Number,2003,18902136.534255374,26267482.374845907,12964145.906274255
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,567,Depressive disorders,1,Number,2003,1360862.2394812508,1862899.3703497574,921651.833123762
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2003,23269696.98468951,31752131.77268307,16241945.871091768
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,571,Anxiety disorders,1,Number,2003,4363828.500278514,6077720.776135012,2993995.932975093
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,571,Anxiety disorders,1,Number,2003,7314659.572617121,10426399.684871495,4844606.64722124
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,571,Anxiety disorders,1,Number,2003,867846.7609905925,1359191.7945569002,519779.4737624112
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,571,Anxiety disorders,1,Number,2003,10097649.666081894,14189143.64828744,6693711.186295755
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,571,Anxiety disorders,1,Number,2003,625712.4847213752,882501.8909663789,416649.37841415877
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,410,Neoplasms,1,Number,2001,194126435.8158117,201465606.88265643,187090317.18667486
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,410,Neoplasms,1,Number,2001,105131823.08475623,108656503.32761607,101653667.12375967
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,410,Neoplasms,1,Number,2001,8199954.806027808,8751705.36148569,7641716.00880077
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,410,Neoplasms,1,Number,2001,8259463.047860532,10145974.869026294,6652809.626085192
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,410,Neoplasms,1,Number,2001,46329228.27069055,48229009.81143498,44609496.847540975
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,410,Neoplasms,1,Number,2001,26205966.60647635,27234690.975924898,24234925.693113193
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,410,Neoplasms,1,Number,2002,196317862.87814692,203280443.9004446,189140041.55603173
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,410,Neoplasms,1,Number,2002,107195875.44975415,110644390.89503978,103726604.7002116
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,410,Neoplasms,1,Number,2002,8024266.323311612,8527827.300952373,7490653.007955809
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,410,Neoplasms,1,Number,2002,7925869.194762119,9731639.015956191,6405769.241723045
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,410,Neoplasms,1,Number,2002,45872443.309641965,47591313.52281548,44246275.45495625
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,410,Neoplasms,1,Number,2002,27299408.60067676,28400599.63010366,25252531.332981832
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2007,40216246.98759587,54873501.63954935,28208737.024352014
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,567,Depressive disorders,1,Number,2007,10653810.771254258,14874727.928600341,7449979.264566837
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,567,Depressive disorders,1,Number,2007,8501729.633587167,12498035.54032711,5518759.103746143
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,567,Depressive disorders,1,Number,2007,108733.07275718763,191585.63206576422,53049.59618538508
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,567,Depressive disorders,1,Number,2007,19376777.09108095,26913928.449561983,13302575.604941035
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,567,Depressive disorders,1,Number,2007,1575196.418916272,2156453.840429881,1070476.4122901538
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2007,24611137.76638139,33657757.03872306,17201949.816715013
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,571,Anxiety disorders,1,Number,2007,4852155.440703994,6768375.551193381,3333964.877768695
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,571,Anxiety disorders,1,Number,2007,7501905.607733499,10727974.460857362,4957960.249843975
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,571,Anxiety disorders,1,Number,2007,877711.4581512712,1371214.9228436192,524598.4908504789
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,571,Anxiety disorders,1,Number,2007,10667267.500128636,15003843.00566789,7077624.213369895
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,571,Anxiety disorders,1,Number,2007,712097.7596639862,1004292.5317567658,473270.2007537419
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,410,Neoplasms,1,Number,2004,200722796.453079,207476476.03073093,193327023.07879195
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,410,Neoplasms,1,Number,2004,110699454.13220732,114007259.8737957,107036077.93830368
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,410,Neoplasms,1,Number,2004,7883747.550590926,8365262.6343917735,7399352.663693463
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,410,Neoplasms,1,Number,2004,7513608.191426531,9136206.454607008,6065519.4229539195
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,410,Neoplasms,1,Number,2004,45311122.01384032,46886007.201952316,43746676.31550489
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,410,Neoplasms,1,Number,2004,29314864.565013926,30557056.368679672,26985665.50997999
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2009,40185365.87500509,54940414.89810489,28162623.432679124
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,567,Depressive disorders,1,Number,2009,11038015.797688833,15426058.186249254,7704996.217999127
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,567,Depressive disorders,1,Number,2009,8303198.567819332,12167588.878917791,5393863.167781925
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,567,Depressive disorders,1,Number,2009,113321.58114924439,200272.551408263,56343.47065559687
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,567,Depressive disorders,1,Number,2009,19039346.13542197,26380311.24653159,13080003.075750234
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,567,Depressive disorders,1,Number,2009,1691483.7929256978,2328764.1785773975,1152239.4851821298
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2006,40134714.04167186,54818423.01665501,28145814.882795572
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,567,Depressive disorders,1,Number,2006,10447000.493094148,14590766.130520318,7303798.28242392
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,567,Depressive disorders,1,Number,2006,8560173.981124382,12566244.936950637,5549889.302646509
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,567,Depressive disorders,1,Number,2006,106368.71307264733,188838.69563614938,52087.23611078397
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,567,Depressive disorders,1,Number,2006,19501328.631575532,27125336.72469804,13365527.407197205
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,567,Depressive disorders,1,Number,2006,1519842.222805197,2077921.9340475379,1031662.5791740782
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2006,24168936.16836974,33018963.72788044,16889388.330371577
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,571,Anxiety disorders,1,Number,2006,4699857.177652664,6535080.0099965,3227822.566532173
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,571,Anxiety disorders,1,Number,2006,7440391.398865141,10632244.920488792,4933096.416744416
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,571,Anxiety disorders,1,Number,2006,868439.4131147834,1355985.7274050594,519995.99339504424
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,571,Anxiety disorders,1,Number,2006,10473208.06917407,14718191.584577424,6956727.429355767
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,571,Anxiety disorders,1,Number,2006,687040.1095630495,969493.5081226674,458493.37732346886
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,410,Neoplasms,1,Number,2003,198531890.99480417,205733263.36954954,191984328.17864037
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,410,Neoplasms,1,Number,2003,109240758.3936626,112943088.27210121,105899731.84694156
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,410,Neoplasms,1,Number,2003,7890198.838680556,8368163.069136084,7404219.68003303
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,410,Neoplasms,1,Number,2003,7651572.4543038905,9387463.045573017,6161241.005351696
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,410,Neoplasms,1,Number,2003,45390305.560235515,47143712.85138461,43843437.722844735
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,410,Neoplasms,1,Number,2003,28359055.747921653,29531422.80245382,26235124.72069886
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2009,25519195.771200098,34818262.96656773,17785290.591320734
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,571,Anxiety disorders,1,Number,2009,5164271.107385402,7228098.133660053,3543772.1476701736
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,571,Anxiety disorders,1,Number,2009,7603339.148198282,10910412.12646192,5028942.764308372
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,571,Anxiety disorders,1,Number,2009,901118.4846904209,1408726.9625671569,536189.499274416
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,571,Anxiety disorders,1,Number,2009,11085401.780173752,15585903.427093955,7346336.684520757
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,571,Anxiety disorders,1,Number,2009,765065.250752251,1085961.4449037462,506453.2389142759
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,410,Neoplasms,1,Number,2005,203744559.31485203,210787903.10538724,196479710.86289236
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,410,Neoplasms,1,Number,2005,112638260.08334951,116266940.26743425,109148036.3771389
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,410,Neoplasms,1,Number,2005,7901332.200103734,8390775.488939298,7404883.891751454
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,410,Neoplasms,1,Number,2005,7465378.9830255825,9060921.85637235,6021709.795495965
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,410,Neoplasms,1,Number,2005,45352373.46638239,46970323.2880167,43782816.507138625
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,410,Neoplasms,1,Number,2005,30387214.581990764,31736756.926933575,28189973.988429546
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,410,Neoplasms,1,Number,2009,213394990.32500544,219924114.04878375,204893250.46903688
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,410,Neoplasms,1,Number,2009,118292089.19397117,121738246.81843844,114417014.01174447
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,410,Neoplasms,1,Number,2009,7850905.405545042,8314958.822749508,7398878.227718383
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,410,Neoplasms,1,Number,2009,7159588.753794632,8571205.384968283,5928758.783386455
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,410,Neoplasms,1,Number,2009,46267175.11983247,47888827.42392305,44645835.03751748
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,410,Neoplasms,1,Number,2009,33825231.851862475,35397614.756170824,30939827.967888456
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2008,40157857.7567185,54853355.043345354,28176589.865926124
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,567,Depressive disorders,1,Number,2008,10838813.954633342,15110671.576345012,7576583.787623093
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,567,Depressive disorders,1,Number,2008,8399269.176305909,12323063.7881009,5457919.831181405
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,567,Depressive disorders,1,Number,2008,111190.55949142817,197661.51608616865,54588.552760781306
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,567,Depressive disorders,1,Number,2008,19176014.724479668,26589051.503460743,13172578.315063026
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,567,Depressive disorders,1,Number,2008,1632569.3418081668,2244844.6775286905,1111791.975095403
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2008,25078081.94368813,34306145.44439957,17540275.57229303
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,571,Anxiety disorders,1,Number,2008,5009455.755066878,6996458.871351141,3435182.080474581
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,571,Anxiety disorders,1,Number,2008,7561626.203927421,10851794.468515886,4995121.342001483
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,571,Anxiety disorders,1,Number,2008,889562.1633882764,1393192.8387335348,531711.3659253804
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,571,Anxiety disorders,1,Number,2008,10878854.075227143,15302838.894103453,7208694.974329483
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,571,Anxiety disorders,1,Number,2008,738583.7460783955,1045074.8662162775,489778.5207493251
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,410,Neoplasms,1,Number,2007,207061135.71805292,213800602.32647437,199566044.2575563
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,410,Neoplasms,1,Number,2007,114852878.9408588,118390561.91457884,111423074.1106732
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,410,Neoplasms,1,Number,2007,7801591.892677034,8267616.885651977,7340651.984658259
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,410,Neoplasms,1,Number,2007,7251863.96781582,8749447.576538524,5918854.983353377
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,410,Neoplasms,1,Number,2007,45240191.85422231,46912303.52255487,43785390.96043118
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,410,Neoplasms,1,Number,2007,31914609.06247928,33244325.281899948,29457500.70648493
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,410,Neoplasms,1,Number,2006,204669527.75401536,211200866.07183534,197487258.28578448
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,410,Neoplasms,1,Number,2006,113267327.54241757,116837625.99539778,109639880.55046035
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,410,Neoplasms,1,Number,2006,7845972.621940359,8318207.14311311,7385972.884417136
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,410,Neoplasms,1,Number,2006,7375661.868530975,8910025.043927066,5966325.759765643
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,410,Neoplasms,1,Number,2006,45092603.696193546,46693881.839467295,43543956.40643564
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,410,Neoplasms,1,Number,2006,31087962.024932813,32429061.649103545,28797839.316885963
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,410,Neoplasms,1,Number,2008,210757084.06832203,217881356.69773746,203074301.85370377
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,410,Neoplasms,1,Number,2008,116877998.36798085,120489326.2577426,113111920.0034839
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,410,Neoplasms,1,Number,2008,7827614.6508206045,8293168.929356691,7379276.441587176
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,410,Neoplasms,1,Number,2008,7231983.196294064,8649175.483927367,5953936.920475413
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,410,Neoplasms,1,Number,2008,45862839.66289709,47540447.3497969,44345636.36064819
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,410,Neoplasms,1,Number,2008,32956648.190329533,34474993.73245469,30373208.31110135
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2012,41886428.657101534,57255510.835643075,29359198.431739412
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,567,Depressive disorders,1,Number,2012,11927136.987496737,16657367.832633495,8368824.7651759945
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,567,Depressive disorders,1,Number,2012,8289629.846321292,12131035.61027448,5405979.228508823
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,567,Depressive disorders,1,Number,2012,116093.1319663435,203487.38345668901,57527.593625136535
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,567,Depressive disorders,1,Number,2012,19670523.307478484,27232414.41605044,13490526.202050438
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,567,Depressive disorders,1,Number,2012,1883045.3838387493,2591027.3010966377,1283533.7586956834
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2012,26385357.38673069,35975531.867388465,18365332.29366953
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,571,Anxiety disorders,1,Number,2012,5527222.197693482,7760762.6430801,3768222.614477278
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,571,Anxiety disorders,1,Number,2012,7556593.603265196,10858911.534854028,4992771.114111349
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,571,Anxiety disorders,1,Number,2012,913826.9128789026,1448262.6950392935,540572.4089115743
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,571,Anxiety disorders,1,Number,2012,11558584.062995125,16317369.999506744,7598465.317227779
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,571,Anxiety disorders,1,Number,2012,829130.6098979653,1179693.3371771818,550959.5762403262
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2011,26172368.7572061,35702110.647619516,18228085.383697674
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,571,Anxiety disorders,1,Number,2011,5430379.881909883,7595744.042636046,3714624.7579546045
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,571,Anxiety disorders,1,Number,2011,7590619.863261314,10927004.068211047,5002664.3740395885
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,571,Anxiety disorders,1,Number,2011,910833.1695673385,1429637.8487282698,542618.1977127962
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,571,Anxiety disorders,1,Number,2011,11429240.392756183,16085294.783964641,7533045.928578274
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,571,Anxiety disorders,1,Number,2011,811295.4497113327,1151468.3541263347,538645.8838593159
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2014,43323753.7534986,59319849.37396049,30341375.409768723
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,567,Depressive disorders,1,Number,2014,12680363.934723325,17714203.007323157,8844336.40110986
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,567,Depressive disorders,1,Number,2014,8307546.369358833,12146297.391842902,5393935.810671351
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,567,Depressive disorders,1,Number,2014,117137.26106053824,207468.66788240746,57928.24010579339
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,567,Depressive disorders,1,Number,2014,20203773.887925997,28093781.100593727,13832649.921155896
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,567,Depressive disorders,1,Number,2014,2014932.3004299095,2769952.5007049474,1375150.3593046046
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2014,26795018.13428723,36541539.69056562,18544189.355875313
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,571,Anxiety disorders,1,Number,2014,5734663.03296801,8050998.801599717,3905233.8159038965
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,571,Anxiety disorders,1,Number,2014,7491014.503867721,10837519.09537256,4947813.32789062
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,571,Anxiety disorders,1,Number,2014,919785.9533643428,1452671.2149728597,543818.4236917584
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,571,Anxiety disorders,1,Number,2014,11787971.659062605,16677536.923848208,7729795.455274262
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,571,Anxiety disorders,1,Number,2014,861582.9850245375,1230716.3604077618,569971.7294035233
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2011,41196977.79481691,56253627.7271548,28858475.45116132
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,567,Depressive disorders,1,Number,2011,11594797.183920806,16210026.295840625,8117619.330859322
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,567,Depressive disorders,1,Number,2011,8276432.329935697,12108822.619683784,5374291.800265101
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,567,Depressive disorders,1,Number,2011,115539.04661525121,202811.25843466414,57592.88407780719
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,567,Depressive disorders,1,Number,2011,19394688.451139357,26861380.60427264,13324750.016833197
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,567,Depressive disorders,1,Number,2011,1815520.783205861,2506185.227524061,1238142.5893285405
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2013,42598602.09451139,58282211.60683808,29901658.751458567
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,567,Depressive disorders,1,Number,2013,12290272.698772963,17172141.17771279,8589902.226985345
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,567,Depressive disorders,1,Number,2013,8299229.083854948,12119217.955578106,5403735.784767276
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,567,Depressive disorders,1,Number,2013,116693.08512689387,206553.06931945044,57080.03339189677
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,567,Depressive disorders,1,Number,2013,19941945.85093362,27665721.143328197,13634883.212530771
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,567,Depressive disorders,1,Number,2013,1950461.3758230095,2683851.987364276,1328293.9186336184
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2013,26577763.077464588,36259562.27881828,18453016.597180057
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,571,Anxiety disorders,1,Number,2013,5622684.211548753,7894881.367841797,3827548.976815157
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,571,Anxiety disorders,1,Number,2013,7519294.445969966,10839713.020036008,4958230.422666743
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,571,Anxiety disorders,1,Number,2013,916844.2463264879,1452558.9447334148,543307.0785365772
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,571,Anxiety disorders,1,Number,2013,11673781.768577162,16506637.884252336,7660856.132451596
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,571,Anxiety disorders,1,Number,2013,845158.4050422305,1202833.1602036145,560324.9215635436
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2010,25893282.974277474,35293812.940693945,18052761.043633267
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,571,Anxiety disorders,1,Number,2010,5310253.275840006,7429884.41348009,3639143.9808267
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,571,Anxiety disorders,1,Number,2010,7612709.413436877,10908866.32604722,5033917.610096768
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,571,Anxiety disorders,1,Number,2010,907840.2487370344,1426745.549837096,540476.352982189
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,571,Anxiety disorders,1,Number,2010,11272487.12184605,15870110.94309045,7449148.46954283
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,571,Anxiety disorders,1,Number,2010,789992.9144174957,1123938.3923488162,525915.6902823304
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2010,40548916.405431695,55513493.19892876,28419002.382623903
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,567,Depressive disorders,1,Number,2010,11289408.692588331,15759544.501523588,7880179.649867156
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,567,Depressive disorders,1,Number,2010,8266088.38121522,12113089.503858803,5367569.587860176
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,567,Depressive disorders,1,Number,2010,114814.79301550832,202327.81892850331,57308.48342933314
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,567,Depressive disorders,1,Number,2010,19126752.91022626,26478262.615773726,13122490.902297452
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,567,Depressive disorders,1,Number,2010,1751851.6283863655,2413204.831729771,1191805.7801655638
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,410,Neoplasms,1,Number,2016,236468041.0751521,248242417.618062,224685131.2597534
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,410,Neoplasms,1,Number,2016,135901542.68018574,142348534.00726157,129500075.52556543
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,410,Neoplasms,1,Number,2016,7357884.941017229,7865823.294272907,6832366.181784058
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,410,Neoplasms,1,Number,2016,6660642.551370237,7742900.821372789,5630914.452690803
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,410,Neoplasms,1,Number,2016,46958173.26749777,49522113.16568498,44534646.09470539
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,410,Neoplasms,1,Number,2016,39589797.63508124,41853718.749280766,35821657.84117348
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,410,Neoplasms,1,Number,2012,221727370.39484408,229616156.10403764,213577360.25468987
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,410,Neoplasms,1,Number,2012,124486369.55757943,128864912.20724401,120080212.57367706
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,410,Neoplasms,1,Number,2012,7602006.026700064,8043723.704405618,7153170.0000100285
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,410,Neoplasms,1,Number,2012,6969092.204430186,8223148.761176073,5877949.430870637
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,410,Neoplasms,1,Number,2012,46439387.30093508,48389108.47601993,44719794.92459625
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,410,Neoplasms,1,Number,2012,36230515.30519925,37988090.244993605,33013607.582764257
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2016,44746174.536067575,61232877.78852615,31313639.377783477
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,567,Depressive disorders,1,Number,2016,13472082.96340302,18809209.399430323,9289120.865161242
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,567,Depressive disorders,1,Number,2016,8317492.464952828,12202144.026077233,5397885.526130245
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,567,Depressive disorders,1,Number,2016,118241.35056532433,208105.1934779003,57938.669222998025
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,567,Depressive disorders,1,Number,2016,20700325.68100491,28864002.141761914,14106824.450781852
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,567,Depressive disorders,1,Number,2016,2138032.0761415716,2943631.9134878586,1456300.7384580164
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2016,27528935.083323248,37545296.51308242,19039159.082578868
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,571,Anxiety disorders,1,Number,2016,6094021.009410787,8574400.712177683,4131183.684650634
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,571,Anxiety disorders,1,Number,2016,7502915.6680113245,10849880.908081718,4952843.143963676
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,571,Anxiety disorders,1,Number,2016,930605.3760012577,1472735.5662338766,545940.799038475
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,571,Anxiety disorders,1,Number,2016,12092730.114359308,17152341.536243737,7923083.978603954
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,571,Anxiety disorders,1,Number,2016,908662.9155405668,1301311.5237989149,601202.6227664879
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2015,44049443.46159567,60268741.12844656,30878945.397458497
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,567,Depressive disorders,1,Number,2015,13078665.300781852,18267632.03654181,9072525.904933978
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,567,Depressive disorders,1,Number,2015,8314661.980441077,12176098.762050241,5389887.645221468
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,567,Depressive disorders,1,Number,2015,117711.2450662352,207435.13442686253,57304.26807316532
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,567,Depressive disorders,1,Number,2015,20460010.197439335,28552224.74543574,13959697.951420069
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,567,Depressive disorders,1,Number,2015,2078394.7378671623,2858266.80892342,1415207.1757199785
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2015,27090759.95044075,36880180.76976435,18746282.498022635
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,571,Anxiety disorders,1,Number,2015,5882211.44727521,8276467.243523067,3998053.960452345
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,571,Anxiety disorders,1,Number,2015,7479744.455003793,10804734.614075234,4948967.444803175
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,571,Anxiety disorders,1,Number,2015,924196.97463599,1459486.4682598356,546585.7256135603
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,571,Anxiety disorders,1,Number,2015,11922335.388837328,16893333.75019372,7814510.971719499
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,571,Anxiety disorders,1,Number,2015,882271.6846884179,1264287.6815117912,583703.5778579388
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,410,Neoplasms,1,Number,2014,227658816.3871885,236610169.59178153,217990795.09409964
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,410,Neoplasms,1,Number,2014,128809836.69102241,133675480.8095875,123805907.42498262
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,410,Neoplasms,1,Number,2014,7486242.158729676,7945537.054252928,7007399.188661791
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,410,Neoplasms,1,Number,2014,6841060.947278448,8010325.455477856,5761824.153893686
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,410,Neoplasms,1,Number,2014,46566005.66037485,48607158.074867435,44448100.65336929
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,410,Neoplasms,1,Number,2014,37955670.92978296,39979603.39196061,34549096.57849046
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,410,Neoplasms,1,Number,2015,232268829.77252188,241750425.28145567,222168044.84682482
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,410,Neoplasms,1,Number,2015,132614129.4772242,138028980.9377443,127003600.91594093
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,410,Neoplasms,1,Number,2015,7421867.759984124,7894020.581916819,6929758.335626455
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,410,Neoplasms,1,Number,2015,6761658.029593118,7903591.7608908275,5681138.580167922
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,410,Neoplasms,1,Number,2015,46652927.81621008,48904863.07070326,44437685.97700731
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,410,Neoplasms,1,Number,2015,38818246.68951058,40790457.120169856,35209232.371745944
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,410,Neoplasms,1,Number,2011,219119790.67594472,227297492.42045656,209964091.59717363
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,410,Neoplasms,1,Number,2011,122293637.73943737,126764805.91231456,118067150.86691271
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,410,Neoplasms,1,Number,2011,7763846.895154891,8229003.096039817,7292116.577159159
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,410,Neoplasms,1,Number,2011,6948109.640801212,8228440.839101214,5841390.725701099
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,410,Neoplasms,1,Number,2011,46630967.64935352,48610365.597773395,44853354.04517183
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,410,Neoplasms,1,Number,2011,35483228.751197696,37212454.964472026,32234837.44139109
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,410,Neoplasms,1,Number,2013,224477901.3179881,232894633.32403532,214818144.50701642
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,410,Neoplasms,1,Number,2013,126334344.14256412,130774219.27989343,121306052.12892087
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,410,Neoplasms,1,Number,2013,7514549.347042185,7976609.111016028,7031176.252078404
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,410,Neoplasms,1,Number,2013,6937046.5137691535,8131619.061718266,5835717.791977081
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,410,Neoplasms,1,Number,2013,46593099.17764041,48605437.3259619,44717959.42586394
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,410,Neoplasms,1,Number,2013,37098862.13697238,39012837.51150688,33645071.17974082
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,410,Neoplasms,1,Number,2010,216590477.96708816,223809838.64875743,208370487.74982214
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,410,Neoplasms,1,Number,2010,120359811.69638826,124177976.63492586,116276061.76167665
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,410,Neoplasms,1,Number,2010,7845986.0587498555,8305315.886832815,7397493.415810737
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,410,Neoplasms,1,Number,2010,7002609.112110092,8330248.742347667,5851399.817278764
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,410,Neoplasms,1,Number,2010,46681294.52857165,48513262.136703506,44962525.7653209
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,410,Neoplasms,1,Number,2010,34700776.571268365,36305608.00209531,31828120.41865988
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2017,45446157.69980737,62203872.26085908,31785794.24760876
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,567,Depressive disorders,1,Number,2017,13871268.55615089,19352542.58732138,9542715.520785067
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,567,Depressive disorders,1,Number,2017,8332941.588408643,12232731.999710321,5402588.465350399
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,567,Depressive disorders,1,Number,2017,118721.23180580782,210247.94265972733,58308.23164520845
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,567,Depressive disorders,1,Number,2017,20929555.156623468,29164476.03155963,14202646.289292587
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,567,Depressive disorders,1,Number,2017,2193671.166818551,3016201.334638338,1496333.6395092246
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2017,27973558.23204393,38231095.34333877,19315943.04286971
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,571,Anxiety disorders,1,Number,2017,6319081.659123371,8919825.566709025,4290497.866190662
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,571,Anxiety disorders,1,Number,2017,7535873.64229935,10877260.23288177,4971095.563209318
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,571,Anxiety disorders,1,Number,2017,937352.2349937684,1481490.4887023126,551379.0452124539
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,571,Anxiety disorders,1,Number,2017,12247134.600689378,17381806.846338965,7991144.256863591
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,571,Anxiety disorders,1,Number,2017,934116.0949381064,1339151.3065132268,619331.2393505676
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,410,Neoplasms,1,Number,2019,251390451.28890708,265705265.57543957,235746621.2272082
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,410,Neoplasms,1,Number,2019,146724199.4437546,155242804.65522534,137238587.6291249
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,410,Neoplasms,1,Number,2019,7506132.021331981,8146192.438912165,6907575.870723545
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,410,Neoplasms,1,Number,2019,6259795.882328453,7342288.746360232,5352285.117697975
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,410,Neoplasms,1,Number,2019,48207872.41312065,51511078.62750106,44910476.62726913
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,410,Neoplasms,1,Number,2019,42692451.52837138,45303587.196601585,38380856.237511575
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2019,46863642.08847318,63797315.23465926,32929363.0238674
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,567,Depressive disorders,1,Number,2019,14588247.6968969,20291446.882957894,10029383.144127166
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,567,Depressive disorders,1,Number,2019,8426533.750531198,12502674.610883022,5457664.446850895
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,567,Depressive disorders,1,Number,2019,119462.50339678794,210731.4856945632,58353.79078261227
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,567,Depressive disorders,1,Number,2019,21427732.911551766,30029527.33730835,14487514.242516335
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,567,Depressive disorders,1,Number,2019,2301665.2260964783,3180707.931168999,1557062.526865071
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2019,28676050.44826479,39315123.172814906,19858079.218739454
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,571,Anxiety disorders,1,Number,2019,6770669.177524807,9545967.79900238,4599128.005223071
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,571,Anxiety disorders,1,Number,2019,7497869.777400357,10835366.242828976,4950255.071252124
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,571,Anxiety disorders,1,Number,2019,928473.4323538857,1470907.0495260078,544390.9254946607
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,571,Anxiety disorders,1,Number,2019,12486222.199413607,17697534.31627558,8150801.483152475
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,571,Anxiety disorders,1,Number,2019,992815.8615721206,1420768.4598461774,655670.251506727
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,410,Neoplasms,1,Number,2017,240300721.87183946,252198654.6233369,227252800.86212793
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,410,Neoplasms,1,Number,2017,138841162.21543807,146468463.37675533,131850268.13249981
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,410,Neoplasms,1,Number,2017,7363980.7521217335,7918830.113975041,6803327.598341476
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,410,Neoplasms,1,Number,2017,6504397.037039963,7577529.516122099,5540300.331176698
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,410,Neoplasms,1,Number,2017,47244825.70062853,50111517.28937917,44416402.74503891
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,410,Neoplasms,1,Number,2017,40346356.1666112,42649488.850250825,36462103.66360218
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,567,Depressive disorders,1,Number,2018,46160606.761093944,62921380.21928257,32404829.208540317
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,567,Depressive disorders,1,Number,2018,14248683.025665145,19879571.634588588,9798308.491964027
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,567,Depressive disorders,1,Number,2018,8372486.623591013,12350578.92960905,5425597.867129114
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,567,Depressive disorders,1,Number,2018,119077.5186364682,210455.2204177123,58539.46333519152
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,567,Depressive disorders,1,Number,2018,21172306.261506606,29588640.293070327,14316856.782163048
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,567,Depressive disorders,1,Number,2018,2248053.331694803,3093975.4546345063,1528529.1359010225
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,571,Anxiety disorders,1,Number,2018,28336345.010341797,38718912.550497904,19606703.53833821
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,571,Anxiety disorders,1,Number,2018,6534235.384971727,9227599.387393111,4435101.146151947
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,571,Anxiety disorders,1,Number,2018,7533010.741177611,10889799.299680866,4968614.378657929
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,571,Anxiety disorders,1,Number,2018,936705.0193407033,1484767.1536753,550486.833112743
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,571,Anxiety disorders,1,Number,2018,12371472.87141142,17554329.698694576,8088492.422208675
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,571,Anxiety disorders,1,Number,2018,960920.9934403683,1378870.649064235,634902.9137511799
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,410,Neoplasms,1,Number,2018,245703704.88125652,259847752.46286052,231449702.34468624
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,41,50-74 years,410,Neoplasms,1,Number,2018,142531235.1991282,151085960.42974192,134300491.27356502
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,159,10-24 years,410,Neoplasms,1,Number,2018,7486843.091403654,8081694.266133223,6883501.901159421
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,172,0-9 years,410,Neoplasms,1,Number,2018,6385513.059011932,7454958.443712218,5459634.864085285
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,206,25-49 years,410,Neoplasms,1,Number,2018,47774444.16707777,50979757.538031586,44587772.28025071
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,234,75+ years,410,Neoplasms,1,Number,2018,41525669.36463481,44030142.42298557,37414790.86480853
